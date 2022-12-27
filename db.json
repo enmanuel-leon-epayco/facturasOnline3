@@ -1,0 +1,16 @@
+{
+    "facturas":{
+        "success": true,
+        "title_response": "Consulta exitosa",
+        "text_response": "Consulta exitosa",
+        "last_action": "Consulta exitosa",
+        "data": {
+            "nombre": "MARIA VANEGAS",
+            "monto": "6700",
+            "fecha": "2022-12-27",
+            "identificador": "23700692",
+            "codigoConsultoraExtendido": "9900035839",
+            "codigoAprobacion": "54534534"
+        }
+    }
+ }
