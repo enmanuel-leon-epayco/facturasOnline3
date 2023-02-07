@@ -21,6 +21,70 @@
         "last_action": "Consulta exitosa",
         "data": [
             {
+                "billID": "2322730693",
+                "folioID": "64500",
+                "billingCycleID": null,
+                "billingCycleName": null,
+                "issueDate": "2022-05-05",
+                "cycleBeginDate": null,
+                "cycleEndDate": null,
+                "openAmount": 9000,
+                "invoiceAmount": 9000,
+                "dueDate": "2022-05-12",
+                "pdfLink": null,
+                "documentType": "SALES-INV",
+                "accountCode": "531386770013",
+                "serviceNumber": ""
+            },
+            {
+                "billID": "2322729840",
+                "folioID": "64020",
+                "billingCycleID": null,
+                "billingCycleName": null,
+                "issueDate": "2023-04-27",
+                "cycleBeginDate": null,
+                "cycleEndDate": null,
+                "openAmount": 35000,
+                "invoiceAmount": 35000,
+                "dueDate": "2023-05-04",
+                "pdfLink": null,
+                "documentType": "SALES-INV",
+                "accountCode": "531386770013",
+                "serviceNumber": ""
+            },
+            {
+                "billID": "2322729758",
+                "folioID": "63952",
+                "billingCycleID": null,
+                "billingCycleName": null,
+                "issueDate": "2022-04-26",
+                "cycleBeginDate": null,
+                "cycleEndDate": null,
+                "openAmount": 39000,
+                "invoiceAmount": 39000,
+                "dueDate": "2022-05-03",
+                "pdfLink": null,
+                "documentType": "SALES-INV",
+                "accountCode": "531386770013",
+                "serviceNumber": ""
+            },
+            {
+                "billID": "2322729759",
+                "folioID": "63953",
+                "billingCycleID": null,
+                "billingCycleName": null,
+                "issueDate": "2023-04-26",
+                "cycleBeginDate": null,
+                "cycleEndDate": null,
+                "openAmount": 49000,
+                "invoiceAmount": 49000,
+                "dueDate": "2023-05-03",
+                "pdfLink": null,
+                "documentType": "SALES-INV",
+                "accountCode": "531386770015",
+                "serviceNumber": ""
+            },
+            {
                 "billID": "212814996",
                 "folioID": "1016254",
                 "billingCycleID": "7064",
@@ -38,4 +102,4 @@
             }
         ]
     }
-}
+}s
