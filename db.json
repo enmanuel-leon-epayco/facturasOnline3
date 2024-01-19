@@ -37,5 +37,31 @@
                 "serviceNumber": ""
             }
         ]
+    },
+    "mefia": {
+        "cod": "01",
+        "des": "La operacion fue realizada correctamente",
+        "responseClient": [
+            {
+                "surname": "CASTA\u00bfO",
+                "secondSurname": "",
+                "firstName": "MARIELA",
+                "secondName": "",
+                "identification": "21927570",
+                "identificationType": "C",
+                "accountStatus": "ACTIVO",
+                "card": "6377470109235405",
+                "cardMasked": "637747********405",
+                "typeCard": "TC MEFIA",
+                "paydayLimit": "2024-01-20",
+                "totalBalanceArrears": 0,
+                "valueInterest": 0,
+                "minimunPayment": 198577,
+                "fullPayment": 1816724,
+                "bill": "294298",
+                "message1": "Flamingo le f\u00eda porque conf\u00eda en usted.",
+                "message2": "MeF\u00eda: nuevo nombre del cr\u00e9dito Flamingo."
+            }
+        ]
     }
 }
